@@ -1,7 +1,7 @@
 ### Ola Sou Pedro Henrique 
 - 🔭 Trabalho no Colegio Boa Viagem 
 - 🌱 Estou estudando Ciência da Computação
-- 📚 Estou participando do Bootcamp da everis New Talents #2 Java
+- 📚 Estou participando do Bootcamp inter fronted developer
 - 💻 Sou formado em Técnico em Redes de computadoes  
  <div>
   <a href="https://github.com/rafaballerini">
