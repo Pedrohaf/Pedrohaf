@@ -1,6 +1,6 @@
 ### Ola Sou Pedro Henrique 
 - 🔭 Trabalho no Colegio Boa Viagem 
-- 🌱 Estou estudando Ciência da Computação
+- 🌱 Estou cursando Ciência da Computação
 - 📚 Estou participando do Bootcamp inter frontend developer
 - 💻 Sou formado em Técnico em Redes de computadoes  
  <div>
