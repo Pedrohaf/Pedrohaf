@@ -1,7 +1,7 @@
 ### Ola Sou Pedro Henrique 
 - 🔭 Trabalho no Colegio Boa Viagem 
 - 🌱 Estou cursando Ciência da Computação
-- 📚 Estou participando do Bootcamp inter frontend developer
+- 📚 Estou participando do Bootcamp DecolaTech
 - 💻 Sou formado em Técnico em Redes de computadoes  
  <div>
   <a href="https://github.com/rafaballerini">
